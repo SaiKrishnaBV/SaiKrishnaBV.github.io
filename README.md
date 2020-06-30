@@ -1,2 +1,2 @@
 # SaiKrishnaBV.github.io
-The website where you find the basic tools to begin your journey learning programming languages
+The website where you can relive few of Ask Ketchum's epic battles 
